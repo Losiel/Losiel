@@ -1,9 +1,11 @@
 # Lusie
 - ⭐ [Lua](https://www.lua.org/) and C are my favorite programming languages
-- 💖 Favorite open source project: <s>Lua</s> *(ok sorry)* [**Inkscape**](https://www.inkscape.org/)
-- 📦 I hate dependencies
-- 📅 13 years old
+- 💖 Supporter of Open Source
+- 📦 I hate dependencies, frameworks and [vs](https://code.visualstudio.com/docs/getstarted/telemetry)[co](https://microsoft.github.io/monaco-editor/)[de](https://www.electronjs.org/)
+- ✍️ I use [Neovim](https://neovim.io/)
+- 🐧 I use [OpenSUSE](https://www.opensuse.org/) and [Manjaro](https://manjaro.org/)
 <br/>
 <br/>
 
 - 🇦🇷 I speak Spanish
+- 🤙 lusie#0539
